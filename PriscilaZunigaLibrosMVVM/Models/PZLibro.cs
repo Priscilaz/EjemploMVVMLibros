@@ -10,5 +10,6 @@ namespace PriscilaZunigaLibrosMVVM.Models
     {
         public string? Titulo { get; set; }
         public string? Autor { get; set; }
+        //ambio
     }
 }
